@@ -14,7 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         
-        print("space is cool")
+        print("space is cool 1.1")
     }
 
     override func didReceiveMemoryWarning() {
